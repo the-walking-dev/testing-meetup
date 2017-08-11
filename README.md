@@ -79,5 +79,5 @@ Posibles temas a tratar:
 
 ## TODO
 
-  [ ] Definir lugar
-  [ ] Definir fecha
+ - [ ] Definir lugar
+ - [ ] Definir fecha
